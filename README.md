@@ -4,9 +4,9 @@ Sistema de conta bancária simples, usado para aprender o básico de orientaçã
 
 ## 🔨 Funcionalidades do projeto
 
-Sistema onde você pode criar contas 
-Acessando a conta você pode executar funções como: extrato, deposita, saca e transfere
-Definir saldo, titulare e limite com getters e setters
+Sistema onde você pode criar contas  
+Acessando a conta você pode executar funções como: extrato, deposita, saca e transfere  
+Definir saldo, titulare e limite com getters e setters  
 Uso de métodos estáticos e privados
 
 ## ✔️ Técnicas e tecnologias utilizadas
